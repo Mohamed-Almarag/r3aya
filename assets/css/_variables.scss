@@ -1,0 +1,33 @@
+:root {
+  --main-color: #00A793;
+  --second-color: #C31C26;
+  --third-color: #C4EBE6;
+  --black-color: #000;
+  --white-color: #fff;
+  --card-text-color: rgba(0, 0, 0, 0.7);
+  --placeholder-text-color: #939393;
+  --stars-rate-color: #E8E82D;
+  --line-height-text: 1.7;
+  --main-padding: 70px;
+  --title-font-size: 1.5rem;
+  --bg-section: rgba(196, 235, 230, 0.4);
+  --stars-rate-color: #E8E82D;
+  --delete-color: #373737;
+}
+
+
+
+$main-color: var(--main-color);
+$second-color: var(--second-color);
+$third-color: var(--third-color);
+$black-color: var(--black-color);
+$white-color: var(--white-color);
+$card-text-color: var(--card-text-color);
+$placeholder-text-color: var(--placeholder-text-color);
+$stars-rate-color: var(--stars-rate-color);
+$line-height-text: var(--line-height-text);
+$main-padding: var(--main-padding);
+$title-font-size: var(--title-font-size);
+$bg-section: var(--bg-section);
+$stars-rate-color: var(--stars-rate-color);
+$delete-color: var(--delete-color);
